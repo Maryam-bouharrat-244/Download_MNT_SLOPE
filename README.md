@@ -164,7 +164,7 @@ Ce projet utilise les données de l'IGN qui sont librement disponibles.
 
 ## 👨‍💻 Auteur
 
-MNT France Generator v1.0
+Mary
 
 ## 📧 Support
 
